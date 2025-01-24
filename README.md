@@ -31,60 +31,17 @@ Node.js: Install Node.js (v14 or above).
 Git: Install Git.
 Steps
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/shopping_cart.git
 cd shopping_cart
 Install dependencies:
-
-bash
-Copy
-Edit
 npm install
 Start the development server:
-
-bash
-Copy
-Edit
 npm run dev
 Open your browser and navigate to:
 
-arduino
-Copy
-Edit
 http://localhost:3000
 🛠️ Tech Stack
 Frontend: Next.js, React, Tailwind CSS
 State Management: Context API
 Icons: React Icons
 Styling: Tailwind CSS
-🤝 Contribution
-We welcome contributions to make this project even better! Here's how you can contribute:
-
-Fork the repository.
-Create a new branch:
-bash
-Copy
-Edit
-git checkout -b feature-name
-Make your changes and commit them:
-bash
-Copy
-Edit
-git commit -m "Your commit message"
-Push to your branch:
-bash
-Copy
-Edit
-git push origin feature-name
-Create a Pull Request.
-📷 Screenshots
-Homepage
-
-Cart Page
-
-Checkout Page
-
-Receipt Page
