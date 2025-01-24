@@ -7,8 +7,6 @@ Cart Management: Add, update, or remove items from your cart effortlessly.
 Checkout System: Enter customer details and complete transactions securely.
 Dynamic Receipt: Generate and view a detailed receipt of your purchases.
 Responsive Design: Fully optimized for desktop and mobile devices.
-🖥️ Live Demo
-Click Here to Explore the Website
 
 📚 How to Use the Website
 1. Browse Products
@@ -90,13 +88,3 @@ Cart Page
 Checkout Page
 
 Receipt Page
-
-📧 Support
-If you have any issues or questions, feel free to contact us:
-
-Email: support@shoppingcart.com
-GitHub Issues: Report an Issue
-📜 License
-This project is licensed under the MIT License.
-
-Made with ❤️ by Your Name
