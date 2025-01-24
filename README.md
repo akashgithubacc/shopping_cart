@@ -26,6 +26,12 @@ View your transaction details and print your receipt if needed.
 🚀 Installation and Setup (For Developers)
 If you'd like to run the project locally, follow these steps:
 
+
+Deployed Link :-
+https://shopping-cart-nmwt69fn7-akash-singhs-projects-1e07e2f3.vercel.app/
+
+might have to login with your vercel account credentials
+
 Prerequisites
 Node.js: Install Node.js (v14 or above).
 Git: Install Git.
