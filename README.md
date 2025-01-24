@@ -28,7 +28,7 @@ If you'd like to run the project locally, follow these steps:
 
 
 Deployed Link :-
-https://shopping-cart-nmwt69fn7-akash-singhs-projects-1e07e2f3.vercel.app/
+https://shopping-cart-bay-two.vercel.app/
 
 might have to login with your vercel account credentials
 
